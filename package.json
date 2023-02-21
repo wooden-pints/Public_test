@@ -1,5 +1,5 @@
 {
-  "name": "private_test",
+  "name": "@wooden-pints/private_test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/wooden-pints/Private_test#readme",
   "publishConfig": {
-    "wooden-pints:registry": "https://npm.pkg.github.com"
+    "@wooden-pints:registry": "https://npm.pkg.github.com"
   }
 }
