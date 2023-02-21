@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wooden-pints/Private_test/issues"
   },
-  "homepage": "https://github.com/wooden-pints/Private_test#readme"
+  "homepage": "https://github.com/wooden-pints/Private_test#readme",
+  "publishConfig": {
+    "wooden-pints:registry": "https://npm.pkg.github.com"
+  }
 }
